@@ -2,3 +2,4 @@ hello
 use git at first time
 second
 good
+bye
